@@ -226,25 +226,12 @@ O usuário é responsável por garantir que a ferramenta seja utilizada de acord
 
 ---
 
-## 📄 Licença
-
-Defina aqui a licença utilizada pelo projeto.
-
-Exemplo:
-
-```text
-MIT License
-```
-
----
-
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Raziel Security**
 
-- GitHub: `https://github.com/seu-usuario`
-- Repositório: `https://github.com/seu-usuario/seu-projeto`
+- GitHub: `https://github.com/RAZIEL-SEC/`
+- Repositório: `https://github.com/RAZIEL-SEC/Builder-to-CrypTool.git`
 
 ---
 
-⭐ Se este projeto for útil para você, considere deixar uma estrela no repositório!
