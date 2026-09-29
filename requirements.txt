@@ -1,0 +1,7 @@
+requests
+psutil
+browser_cookie3
+cryptography
+pycryptodome
+opencv-python
+pywin32
