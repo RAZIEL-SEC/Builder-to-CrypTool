@@ -19,7 +19,7 @@ A ferramenta foi desenvolvida para facilitar a preparação de scripts Python pa
 
 - **📦 Modo de Distribuição**
   - Permite gerar uma versão empacotada do projeto.
-  - Facilita a preparação do executável para distribuição.
+  - Facilita a preparação do executável para disseminação.
   - Totalmente em background e sem janelas.
 
 - **📚 Gerenciamento de Dependências**
@@ -133,9 +133,9 @@ requirements.txt
 Uma estrutura possível para o projeto:
 
 ```text
-CrypToolBuild/
+Builder-to-CrypTool/
 │
-├── Professional_Builder_Pro.py
+├── CrypTool.py
 ├── requirements.txt
 ├── README.md
 │
@@ -170,7 +170,7 @@ Depois, execute novamente o processo de compilação.
 Execute diretamente pelo Python para visualizar as mensagens de erro:
 
 ```bash
-python Professional_Builder_Pro.py
+python CrypTool.py
 ```
 
 ### Problemas com dependências
@@ -212,7 +212,7 @@ E execute novamente o processo.
 
 ## ⚠️ Aviso de Uso
 
-O **CrypToolBuild** é destinado à automação de processos de compilação, ofuscação e empacotamento de software.
+O **CrypTool** é destinado à automação de processos de compilação, ofuscação e empacotamento de software.
 
 O usuário é responsável por garantir que a ferramenta seja utilizada de acordo com as leis, políticas e permissões aplicáveis ao ambiente em que estiver sendo executada.
 
@@ -222,7 +222,7 @@ O usuário é responsável por garantir que a ferramenta seja utilizada de acord
 
 > **Utilize o Modo DEBUG durante o desenvolvimento.**
 >
-> O console aberto facilita a identificação de erros e permite acompanhar os logs do projeto. Depois de confirmar que tudo está funcionando corretamente, gere a versão final para distribuição.
+> O console aberto facilita a identificação de erros e permite acompanhar os logs do projeto. Depois de confirmar que tudo está funcionando corretamente, gere a versão final para disseminação.
 
 ---
 
