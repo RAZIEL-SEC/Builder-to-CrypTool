@@ -126,17 +126,6 @@ As dependências do projeto devem ser declaradas no arquivo:
 requirements.txt
 ```
 
-Entre as bibliotecas que podem ser utilizadas pelo projeto estão:
-
-| Biblioteca | Finalidade |
-|---|---|
-| `cryptography` | Recursos de criptografia |
-| `opencv-python` | Processamento de imagens |
-| `requests` | Comunicação HTTP |
-| `psutil` | Informações e gerenciamento de processos e sistema |
-
-> A lista acima deve ser ajustada de acordo com as dependências realmente utilizadas pelo projeto.
-
 ---
 
 ## 📁 Estrutura do Projeto
