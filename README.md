@@ -1,4 +1,4 @@
-# 🚀 CrypToolBuild
+# 🔐 CrypToolBuild
 
 O **CrypTool Build** é uma interface de linha de comando (CLI) projetada para automatizar processos de compilação, ofuscação e empacotamento de projetos Python.
 
@@ -6,7 +6,7 @@ A ferramenta foi desenvolvida para facilitar a preparação de scripts Python pa
 
 ---
 
-## ✨ Funcionalidades Principais
+## 🙀 Funcionalidades Principais
 
 - **🖥️ Interface CLI Interativa**
   - Menu intuitivo para facilitar o fluxo de trabalho.
