@@ -4,6 +4,9 @@ O **CrypTool Build** é uma interface de linha de comando (CLI) projetada para a
 
 A ferramenta foi desenvolvida para facilitar a preparação de scripts Python para distribuição, oferecendo opções de configuração do processo de build e gerenciamento do ambiente de compilação.
 
+## Uso integrado com as seguintes ferramentas:
+`https://github.com/RAZIEL-SEC/RzL-Stealer.git` e `https://github.com/RAZIEL-SEC/RzL-CrypTool.git`
+
 ---
 
 ## 🙀 Funcionalidades Principais
