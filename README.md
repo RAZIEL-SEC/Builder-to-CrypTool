@@ -20,6 +20,7 @@ A ferramenta foi desenvolvida para facilitar a preparação de scripts Python pa
 - **📦 Modo de Distribuição**
   - Permite gerar uma versão empacotada do projeto.
   - Facilita a preparação do executável para distribuição.
+  - Totalmente em background e sem janelas.
 
 - **📚 Gerenciamento de Dependências**
   - Auxilia no empacotamento das bibliotecas utilizadas pelo projeto.
@@ -35,7 +36,7 @@ A ferramenta foi desenvolvida para facilitar a preparação de scripts Python pa
 
 Para utilizar o CrypToolBuild, recomenda-se:
 
-- **Python:** `3.10` ou superior
+- **Python:** `3.10` (RECOMENDADO) ou superior
 - **Sistema Operacional:** Windows
 - **Ambiente virtual:** `venv`
 - Ferramentas de compilação necessárias para dependências que utilizam extensões nativas
