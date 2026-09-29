@@ -199,17 +199,6 @@ E execute novamente o processo.
 
 ---
 
-## 🔐 Boas Práticas
-
-- ✅ Teste o projeto antes da distribuição.
-- ✅ Utilize um ambiente virtual para isolar dependências.
-- ✅ Mantenha o `requirements.txt` atualizado.
-- ✅ Não armazene senhas, tokens ou chaves privadas no código.
-- ✅ Mantenha backups do código-fonte.
-- ✅ Utilize a ferramenta somente em sistemas autorizados.
-
----
-
 ## ⚠️ Aviso de Uso
 
 O **CrypTool** é destinado à automação de processos de compilação, ofuscação e empacotamento de software.
