@@ -49,7 +49,7 @@ Para utilizar o CrypToolBuild, recomenda-se:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-projeto.git](https://github.com/RAZIEL-SEC/Builder-to-CrypTool.git
-cd 
+cd Builder-to-CrypTool
 ```
 
 ### 2. Criar o ambiente virtual
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 Com o ambiente virtual ativado:
 
 ```bash
-python Professional_Builder_Pro.py
+python CrypTool.py
 ```
 
 ---
