@@ -48,7 +48,7 @@ Para utilizar o CrypToolBuild, recomenda-se:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git](https://github.com/RAZIEL-SEC/Builder-to-CrypTool.git
+git clone 
 cd Builder-to-CrypTool
 ```
 
