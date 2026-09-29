@@ -48,8 +48,8 @@ Para utilizar o CrypToolBuild, recomenda-se:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/seu-usuario/seu-projeto.git](https://github.com/RAZIEL-SEC/Builder-to-CrypTool.git
+cd 
 ```
 
 ### 2. Criar o ambiente virtual
