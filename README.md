@@ -50,34 +50,45 @@ Para utilizar o CrypToolBuild, recomenda-se:
 
 ## 🛠️ Instalação e Uso
 
-### 1. Clonar o repositório
+### 1. Instalar o Python 3.10
+```powershell
+winget install Python.Python.3.10
+```
+
+### 2. Criar uma pasta para o projeto
+```bash
+mkdir Builder_CrypTool
+cd Builder_CrypTool
+```
+
+### 3. Criar o ambiente virtual
+
+```bash
+py -3.10 -m venv .venv
+```
+
+### 4. Ativar o ambiente virtual
+
+No PowerShell:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+No CMD:
+
+```cmd
+.venv\Scripts\activate
+```
+
+### 5. Clonar o repositório
 
 ```bash
 git clone https://github.com/RAZIEL-SEC/Builder-to-CrypTool.git
 cd Builder-to-CrypTool
 ```
 
-### 2. Criar o ambiente virtual
-
-```bash
-python -m venv venv
-```
-
-### 3. Ativar o ambiente virtual
-
-No PowerShell:
-
-```powershell
-.\venv\Scripts\Activate.ps1
-```
-
-No CMD:
-
-```cmd
-venv\Scripts\activate
-```
-
-### 4. Instalar as dependências
+### 6. Instalar as dependências
 
 ```bash
 pip install -r requirements.txt
@@ -106,7 +117,7 @@ pip install pyinstaller auto-py-to-exe
 Com o ambiente virtual ativado:
 
 ```bash
-python CrypTool.py
+py -3.10 Cryptool_Builder.py
 ```
 
 ---
