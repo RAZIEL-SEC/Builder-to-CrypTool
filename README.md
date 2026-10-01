@@ -100,7 +100,7 @@ pip install -r requirements.txt
 Com o ambiente virtual ativado:
 
 ```bash
-py -3.10 Cryptool_Builder.py
+py -3.10 BuilderCT.py
 ```
 
 ---
