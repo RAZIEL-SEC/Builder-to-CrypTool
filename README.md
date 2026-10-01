@@ -185,7 +185,7 @@ Depois, execute novamente o processo de compilação.
 Execute diretamente pelo Python para visualizar as mensagens de erro:
 
 ```bash
-python CrypTool.py
+python BuilderCT.py
 ```
 
 ### Problemas com dependências
